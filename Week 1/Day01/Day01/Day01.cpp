@@ -21,6 +21,7 @@ void print(const std::vector<std::string>& names)
 
 int main()
 {
+    std::cout << "Hello second attempt at PG2!!" << std::endl;
     //Input and Console examples   
     // 
     //std::string myName = Input::GetString("What is your name?");
